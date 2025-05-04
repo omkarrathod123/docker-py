@@ -1,4 +1,4 @@
-form random import randint
+from random import randint
 
 min_number = int(input('please enter min: '))
 max_number = int(input('please enter max: '))
